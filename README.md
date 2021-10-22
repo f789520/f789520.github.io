@@ -1,8 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Jay's Page
 
-You can use the [editor on GitHub](https://github.com/f789520/f789520.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+###申請人
+丁仁傑
+------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###個人簡介
+個人資料:
+學歷:中央化工所
+工作經驗:台積電+長春(共三年多工作經驗)
+
+
+------------------
+
+###為什麼想成為前端、後端、或全端工程師？
+
+------------------
+###為了成為工程師，曾經做過什麼努力？
+
+------------------
+###如果參與這個計畫，會怎麼安排學習時間？
+
+------------------
+###如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？
+
+------------------
+###是否有想要加入的軟體公司？為什麼想加入該公司？
+
+------------------
+###想要對我們說的事情？
+
+/assets/images/electrocat.png
+
+------------------
 
 ### Markdown
 
