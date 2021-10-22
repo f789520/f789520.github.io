@@ -1,5 +1,5 @@
 ## Welcome to Jay's Page
-
+![This is an image](https://github.com/f789520/f789520.github.io/blob/bc50709644c50fb89984ce153f352ba932c2fa07/1021.png)
 ###申請人
 丁仁傑
 ------------------
@@ -32,7 +32,7 @@
 /assets/images/投影片1.PNG
 投影片1.PNG
 
-![This is an image](https://github.com/f789520/f789520.github.io/blob/721088f64f068f6dcb4ec61f7c152d0f87cef1bc/%E6%8A%95%E5%BD%B1%E7%89%871.PNG)
+
 ------------------
 
 ### Markdown
