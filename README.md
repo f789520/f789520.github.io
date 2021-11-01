@@ -57,10 +57,13 @@
 
 - [各行業薪資與工作機會](https://guide.104.com.tw/salary/topic?subject=jobsratio&type=worker&cat=all)
 
+![image](https://github.com/f789520/f789520.github.io/blob/d5265f395ea8042f5a2ba7439b368ee88a201ee4/%E6%9C%AA%E5%91%BD%E5%90%8D.png?raw=true)
+
 ------------------
 # 為了成為工程師，曾經做過什麼努力？
 當初曾想過邊工作邊學習，  
 有自己用很簡單的WordPress創一個簡單網站，  
+![image](https://github.com/f789520/f789520.github.io/blob/d5265f395ea8042f5a2ba7439b368ee88a201ee4/1.png?raw=true)
 但後來玩一玩就壞掉XD，  
 那時候覺得只是套一套模板無法滿足我的需求。  
 也發現自己不是自學的料，  
