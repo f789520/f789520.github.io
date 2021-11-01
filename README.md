@@ -4,19 +4,19 @@
 丁仁傑
 ------------------
 ###個人簡介 
+
 個人資料: 
-1990/6/11
-現況:
-剛從護國神山登出，目前住新竹待業中。
+1990/6/11雙子座，剛從護國神山登出，目前住新竹待業中。
+
 學經歷:
 中央化工所畢業，長春1年多+台積電2年製程工程師。
+
 興趣:
 喜歡運動和挑戰和探索自己有興趣的事情，
 當完兵後去澳洲打工兩年，見見世面，
 回國工作期間之餘考取國際私人健身教練證照。
 工作後覺得自己真心不喜歡待在公司工作，替別人打工，
 比較嚮往自由自在的生活。
-
 
 
 ------------------
@@ -53,8 +53,10 @@
 給自己一年時間，如果創業失敗就趕快替人打工也行!
 依照目前行情來看，以前工作的區間和軟體工程師差不多在同一區。
 
-需求及薪資行情:https://tw.alphacamp.co/blog/software-developer-salary-in-taiwan
-各行業薪資與工作機會:https://guide.104.com.tw/salary/topic?subject=jobsratio&type=worker&cat=all
+[需求及薪資行情:](https://tw.alphacamp.co/blog/software-developer-salary-in-taiwan)
+
+[各行業薪資與工作機會:](https://guide.104.com.tw/salary/topic?subject=jobsratio&type=worker&cat=all)
+
 ------------------
 ###為了成為工程師，曾經做過什麼努力？
 當初曾想過邊工作邊學習，
