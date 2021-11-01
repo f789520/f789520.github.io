@@ -109,8 +109,8 @@
 想辦法滿足客戶需求並累積經驗和作品。  
 
 ------------------
-###想要對我們說的事情？
-覺得這課程很棒，能夠幫助想轉職的人，   
+# 想要對我們說的事情？
+覺得這課程很棒，能夠幫助想轉職的人，    
 覺得自己只是凡人光靠自己無法達成，  
 當初想找資策會但覺得半年時間會被卡太死，全部東西丟完後怕沒時間吸收，  
 選巨匠原因時間比較彈性，但課程的深廣感覺沒比資策會紮實，  
@@ -120,36 +120,3 @@
 
 
 
-------------------
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/f789520/f789520.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
