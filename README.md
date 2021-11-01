@@ -52,9 +52,9 @@
 很想自己學會如何操作，將來不用外包給人也節省成本。
 給自己一年時間，如果創業失敗就趕快替人打工也行!
 依照目前行情來看，以前工作的區間和軟體工程師差不多在同一區。
-需求及薪資行情:
-https://tw.alphacamp.co/blog/software-developer-salary-in-taiwan
-https://guide.104.com.tw/salary/topic?subject=jobsratio&type=worker&cat=all
+
+需求及薪資行情:https://tw.alphacamp.co/blog/software-developer-salary-in-taiwan
+各行業薪資與工作機會:https://guide.104.com.tw/salary/topic?subject=jobsratio&type=worker&cat=all
 ------------------
 ###為了成為工程師，曾經做過什麼努力？
 當初曾想過邊工作邊學習，
