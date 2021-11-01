@@ -1,9 +1,9 @@
-## Welcome to Jay's Page
+# Welcome to Jay's Page
 
 ![image](https://github.com/f789520/f789520.github.io/blob/bc50709644c50fb89984ce153f352ba932c2fa07/1021.png?raw=true)
 
 # 申請人
-丁仁傑
+丁仁傑/Jay Ting  
 # 個人簡介 
 ### 個人資料: 
 1990/6/11雙子座，剛從護國神山登出，目前住新竹待業中。
