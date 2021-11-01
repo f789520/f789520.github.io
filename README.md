@@ -1,5 +1,5 @@
 ## Welcome to Jay's Page
-![image](https://github.com/f789520/f789520.github.io/blob/bc50709644c50fb89984ce153f352ba932c2fa07/1021.png)
+![image](https://github.com/f789520/f789520.github.io/blob/bc50709644c50fb89984ce153f352ba932c2fa07/1021.png?raw=true)
 ###申請人
 丁仁傑
 ------------------
@@ -22,6 +22,7 @@
 ------------------
 
 ###為什麼想成為前端、後端、或全端工程師？
+
 首先、覺得是無法抵擋的趨勢，
 在大時代的潮流之下，數位時代已經是現在進行式，
 各種網路行業興起已經取代很多傳統線下實體店面，
@@ -51,8 +52,9 @@
 很想自己學會如何操作，將來不用外包給人也節省成本。
 給自己一年時間，如果創業失敗就趕快替人打工也行!
 依照目前行情來看，以前工作的區間和軟體工程師差不多在同一區。
-
-
+需求及薪資行情:
+https://tw.alphacamp.co/blog/software-developer-salary-in-taiwan
+https://guide.104.com.tw/salary/topic?subject=jobsratio&type=worker&cat=all
 ------------------
 ###為了成為工程師，曾經做過什麼努力？
 當初曾想過邊工作邊學習，
